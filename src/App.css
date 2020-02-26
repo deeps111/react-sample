@@ -1,0 +1,45 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 15vmin;
+  
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  align-items:center ;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-footer {
+  background-color: #282c34;
+  position : fixed;
+  bottom :0 ;
+  width : 100% ;
+  min-height: 2vh;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  align-items:center ;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  }
+
+.App-link {
+  color: #09d3ac;
+}
+/*
+.red { color: blue }
+.red { color: green }
+.red { color: red } // red will be applied
+
+*/
